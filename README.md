@@ -58,7 +58,7 @@ Each phase runs automatically based on programmed timing and sensor feedback.
 - Enhanced sensor accuracy and error handling  
 
 ## 👨‍🎓 Author
-**Vince Pablo**  
+**Lourde Vincent Pablo**  
 BSIT Student | IoT & UI/UX Enthusiast  
 
 ## 📜 License
