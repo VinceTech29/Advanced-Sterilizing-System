@@ -5,15 +5,11 @@ This project is a **2024 IoT Capstone** that focuses on developing an **Arduino-
 
 By integrating sensors, relays, a servo motor, and an LCD display, the system ensures a **timed, controlled, and user-friendly sterilization process**, making it suitable for applications such as laboratories, clinics, and controlled sanitation environments.
 
----
-
 ## 🎯 Objectives
 - Automate the sterilization process to reduce manual handling
 - Ensure accurate timing for each sterilization stage
 - Improve safety and consistency in sterilization procedures
 - Provide real-time system status through an LCD interface
-
----
 
 ## ⚙️ System Features
 - ⏱️ **Timed Sterilization Process**
@@ -24,8 +20,6 @@ By integrating sensors, relays, a servo motor, and an LCD display, the system en
 - 🌡️ **Sensor-Based Monitoring**
 - 🤖 **Fully Automated Operation Using Arduino**
 
----
-
 ## 🧩 Hardware Components
 - Arduino Microcontroller  
 - LCD Display  
@@ -34,8 +28,6 @@ By integrating sensors, relays, a servo motor, and an LCD display, the system en
 - Sensors (temperature / liquid / timing-related)  
 - Power Supply  
 - Connecting Wires & Breadboard  
-
----
 
 ## 🧠 How the System Works
 1. **Initialization** – System powers on and initializes all components.
@@ -47,8 +39,6 @@ By integrating sensors, relays, a servo motor, and an LCD display, the system en
 
 Each phase runs automatically based on programmed timing and sensor feedback.
 
----
-
 ## 🛠️ Technologies Used
 - **Arduino IDE**
 - **C / C++ (Arduino Programming)**
@@ -56,14 +46,10 @@ Each phase runs automatically based on programmed timing and sensor feedback.
 - **IoT Concepts**
 - **Hardware Integration**
 
----
-
 ## 📂 Repository Contents
 - `/code` – Arduino source code  
 - `/docs` – Documentation and diagrams  
 - `/media` – Images or demo videos (if applicable)  
-
----
 
 ## 🚀 Future Improvements
 - IoT cloud monitoring and mobile app integration  
@@ -71,13 +57,9 @@ Each phase runs automatically based on programmed timing and sensor feedback.
 - Data logging for sterilization history  
 - Enhanced sensor accuracy and error handling  
 
----
-
 ## 👨‍🎓 Author
 **Vince Pablo**  
 BSIT Student | IoT & UI/UX Enthusiast  
-
----
 
 ## 📜 License
 This project is for **academic and educational purposes**.
