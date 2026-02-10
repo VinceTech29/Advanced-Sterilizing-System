@@ -49,7 +49,7 @@ Each phase runs automatically based on programmed timing and sensor feedback.
 ## 📂 Repository Contents
 - `/code` – Arduino source code  
 - `/docs` – Documentation and diagrams  
-- `/media` – Images or demo videos (if applicable)  
+- `/media` – Images
 
 ## 🚀 Future Improvements
 - IoT cloud monitoring and mobile app integration  
